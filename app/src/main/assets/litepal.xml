@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<litepal>
+    <dbname value="kan_kan_weather"/>
+    <version value="1"/>
+    <list>
+        <mapping class="com.it.kankanweather.db.Province"/>
+        <mapping class="com.it.kankanweather.db.City"/>
+        <mapping class="com.it.kankanweather.db.County"/>
+    </list>
+</litepal>
